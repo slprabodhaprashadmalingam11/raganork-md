@@ -1,8 +1,8 @@
 {
-  "name": "raganork", 
+  "name": "prabodha", 
   "version": "2.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "prabodha whatsapp bot- Multi device version.",
+  "main": "./prabodha/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "prabodha",
+  "developer": "@prabodha",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/raganork/issues"
